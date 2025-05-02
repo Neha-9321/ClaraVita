@@ -1,6 +1,6 @@
-# RelaxMind
+# ClaraVita
 
-RelaxMind is a mobile application built using **Flutter** and **Firebase**, designed to help users reduce stress, enhance mindfulness, and promote mental well-being through guided meditations, calming sounds, and wellness tracking.
+ClaraVita is a mobile application built using **Flutter** and **Firebase**, designed to help users reduce stress, enhance mindfulness, and promote mental well-being through guided meditations, calming sounds, and wellness tracking.
 
 ---
 
@@ -48,20 +48,7 @@ RelaxMind is a mobile application built using **Flutter** and **Firebase**, desi
       flutter run
 
 📸 Screenshots
-![i1](https://github.com/user-attachments/assets/7410248d-d3a4-4270-bcf2-2d98db647c35)
-![i2](https://github.com/user-attachments/assets/b750c221-6868-4658-bb6e-be40bf1ea5ae)
 
-![i3](https://github.com/user-attachments/assets/92c8c9d0-5ab7-4ae5-a258-a5d5874d4b35)
-![i4](https://github.com/user-attachments/assets/eec14ea8-b43e-43e4-b495-1807c29c3528)
-
-![i5](https://github.com/user-attachments/assets/64765200-a6b3-47ff-878c-e4e5e5ecf9fb)
-![i6](https://github.com/user-attachments/assets/10489fd1-b3cb-417e-b1e2-0583b153abd3)
-
-![i7](https://github.com/user-attachments/assets/3ec6d6e2-42b5-4f12-a0b1-f7efdbec6c2a)
-![i8](https://github.com/user-attachments/assets/3723bd26-3727-429e-9e75-d39e970021ca)
-
-![i9](https://github.com/user-attachments/assets/c022716c-1452-4cf6-b917-f621abc629ce)
-![i10](https://github.com/user-attachments/assets/8e74be30-9ef7-4c45-8198-d4adeafa10bc)
 
 ### 📋 Future Improvements
 🎯 AI-based Mood Predictions
