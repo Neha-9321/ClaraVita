@@ -29,8 +29,8 @@ ClaraVita is a mobile application built using **Flutter** and **Firebase**, desi
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/relaxmind.git
-   cd relaxmind
+   git clone https://github.com/your-username/claravita.git
+   cd claravita
 2.**Install Dependencies**
 
     flutter pub get
